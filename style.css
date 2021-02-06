@@ -1,27 +1,24 @@
-.container-fluid{
-    background-color:#88C13E;
-    padding: 15px;
-}
 .form-control{
     border-radius: 30px;
     padding: 4px;
 }
-header{
+.contain{
     background-image: linear-gradient( white, #8AC33E);
 }
-.tree{
+.paragraph{
     color: #94C35B;
+    font-size: 20px;
+    font-weight: 600;
+    /* border: 2px solid green; */
 }
 .line{
     color: #8AC33E;
 }
-.head{
+h4{
     color: #B9D98E;
-    padding: 20px;
+    padding: 10px;
     padding-left: 35px;
-}
-.img-fluid{
-    padding-left: 40px;
+    margin-top: 20px;
 }
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -29,7 +26,7 @@ header{
     margin-top: 100px;
   }
   footer{
-      padding: 150px;
+      padding: 10pxpx;
   }
   .foot{
       color: white;
@@ -38,3 +35,14 @@ header{
       border-radius: 8px;
       margin: 30px;
   }
+  .nav-element{
+      color: white;
+  }
+  .navbar-container{
+        background-color: #88c13e;
+        padding: 10px;
+     }
+     .search{
+            border-radius: 30px;
+            width: 300px;
+     }
